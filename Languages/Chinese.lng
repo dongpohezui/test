@@ -1,0 +1,233 @@
+[Translations]
+AboutBox.Caption=About
+AboutBox.lblName.Caption=¸Ä±äMACµØÖ·
+AboutBox.lblCopyRight.Caption=Copyright © 2006 - 2019 LizardSystems.com
+AboutBox.lHome.Caption=Visit LizardSystems.com for updates
+AboutBox.lblLicensed.Caption=This software is licensed to:
+AboutBox.btnOK.Caption=OK
+AboutBox.actEnterRegistrationCode.Caption=Enter license key
+AboutBox.actEnterRegistrationCode.Hint=Enter license key
+Licensed to: %s=Licensed to: %s
+License key: %s=License key: %s
+License type: %s=License type: %s
+License expiration: %s=License expiration: %s
+Your license covers software updates till %s.=Your license covers software updates till %s.
+For using newer software version please renew your license.=For using newer software version please renew your license.
+For using the software please renew your license or downgrade the software.=For using the software please renew your license or downgrade the software.
+Never=Never
+Renew license key=Renew license key
+Get license key=Get license key
+Support and maintenance for your license will expire in %d days.=Support and maintenance for your license will expire in %d days.
+Renew your license before %s to get new software versions as soon as they are released.=Renew your license before %s to get new software versions as soon as they are released.
+Support and maintenance for your license is expired.=Support and maintenance for your license is expired.
+Renew your license to get new software versions as soon as they are released.=Renew your license to get new software versions as soon as they are released.
+
+dlgReminder.lblHeader.Caption=This is unregistered evaluation version of Change MACµØÖ·
+dlgReminder.lblInfo.Caption=This program is not free. {ENTER}It is an evaluation version of copyrighted software. {ENTER}If you use it beyond the evaluation period, {ENTER}you are expected to register it with the author.
+dlgReminder.actGetRegistrationCode.Caption=Get license key
+dlgReminder.actGetRegistrationCode.Hint=Get license key
+dlgReminder.actUseEvaluationVersion.Caption=Continue
+dlgReminder.actUseEvaluationVersion.Hint=Continue use Evaluation Version
+dlgReminder.actEnterRegistrationCode.Caption=Enter license key
+dlgReminder.actEnterRegistrationCode.Hint=Enter license key
+
+dlgRegisterSoftware.Caption=Register Change MACµØÖ·
+dlgRegisterSoftware.lblName.Caption=Licensed to:
+dlgRegisterSoftware.lblCode.Caption=License key:
+dlgRegisterSoftware.OKBtn.Caption=OK
+dlgRegisterSoftware.CancelBtn.Caption=Cancel
+
+dlgChangeMAC.Caption=Change MACµØÖ·
+dlgChangeMAC.Label1.Caption=MACµØÖ·
+dlgChangeMAC.Label7.Caption=Manufacturer
+dlgChangeMAC.OKBtn.Caption=OK
+dlgChangeMAC.CancelBtn.Caption=È¡Ïû
+dlgChangeMAC.btnGenerate.Caption=Fill
+dlgChangeMAC.actFullRandom.Caption=Fully random
+dlgChangeMAC.actRandomDevice.Caption=Only random device ID
+dlgChangeMAC.actRandomManufacturerRandomDevice.Caption=Random manufacturer from list and random device ID
+dlgChangeMAC.actRandomManufacturer.Caption=Random manufacturer from list
+dlgChangeMAC.actPaste.Caption=Paste from clipboard
+
+frmChangeMACAddress.Caption=Change MACµØÖ·
+frmChangeMACAddress.Label1.Caption=Tasks
+frmChangeMACAddress.lblChangeMACAddress.Caption=Change MACµØÖ·
+frmChangeMACAddress.lblChangeMACAddress.Hint=Change MACµØÖ·
+frmChangeMACAddress.lblResetMAcAddress.Caption=Reset MACµØÖ·
+frmChangeMACAddress.lblResetMAcAddress.Hint=Reset MACµØÖ·
+frmChangeMACAddress.lblRestartConnection.Caption=Restart connection
+frmChangeMACAddress.lblRestartConnection.Hint=Restart connection
+frmChangeMACAddress.lblLookupMACAddress.Caption=Lookup MACµØÖ·
+frmChangeMACAddress.lblLookupMACAddress.Hint=Lookup MACµØÖ·
+
+frmChangeMACAddress.Label2.Caption=See also
+frmChangeMACAddress.lblConnection.Caption=Connection:
+frmChangeMACAddress.lblNetworkAdapterLabel.Caption=Name:
+frmChangeMACAddress.lblConnectionTypeLabel.Caption=Connection type:
+frmChangeMACAddress.lblAdapterTypeLabel.Caption=Adapter type:
+
+frmChangeMACAddress.lblIPMaskLabel.Caption=Mask:
+frmChangeMACAddress.lblGuidLabel.Caption=GUID:
+frmChangeMACAddress.lblGatewayLabel.Caption=Gateway:
+frmChangeMACAddress.lblDNSLabel.Caption=DNS servers:
+frmChangeMACAddress.lblDHCPServerLabel.Caption=DHCP server:
+frmChangeMACAddress.lblDHCEnabledLabel.Caption=DHCP enabled:
+frmChangeMACAddress.lblConnectionStatusLabel.Caption=Status:
+frmChangeMACAddress.lblAutoonfigEnabledLabel.Caption=Autoconfig enabled:
+frmChangeMACAddress.Label3.Caption=MACµØÖ·
+frmChangeMACAddress.Label16.Caption=Network adapter
+frmChangeMACAddress.Label15.Caption=Spoofed:
+frmChangeMACAddress.Label13.Caption=IP address:
+frmChangeMACAddress.Label12.Caption=Network parameters
+frmChangeMACAddress.Label11.Caption=Hardware (default):
+frmChangeMACAddress.Label10.Caption=Current:
+frmChangeMACAddress.mnFile.Caption=&File
+frmChangeMACAddress.mnChangeLang.Caption=Language
+frmChangeMACAddress.mnHelp.Caption=&Help
+frmChangeMACAddress.actExit.Caption=Exit
+frmChangeMACAddress.actExit.Category=File
+frmChangeMACAddress.actExit.Hint=Exit
+frmChangeMACAddress.actFeedback.Caption=Feedback
+frmChangeMACAddress.actFeedback.Hint=Feedback
+frmChangeMACAddress.actAbout.Caption=About...
+frmChangeMACAddress.actAbout.Hint=About...
+frmChangeMACAddress.actSupport.Caption=Technical support
+frmChangeMACAddress.actSupport.Hint=Technical support
+frmChangeMACAddress.actHome.Caption=Homepage
+frmChangeMACAddress.actHome.Hint=Homepage
+frmChangeMACAddress.actHelpOnline.Caption=Online help
+frmChangeMACAddress.actHelpOnline.Hint=Online help
+frmChangeMACAddress.actCheckForUpdates.Caption=Check for updates...
+frmChangeMACAddress.actCheckForUpdates.Hint=Check for updates...
+frmChangeMACAddress.actEnterRegistrationCode.Caption=Enter license key
+frmChangeMACAddress.actEnterRegistrationCode.Hint=Enter license key
+frmChangeMACAddress.actGetRegistrationCode.Caption=Get license key
+frmChangeMACAddress.actGetRegistrationCode.Hint=Get license key
+frmChangeMACAddress.actRefresh.Caption=Refresh
+frmChangeMACAddress.actRefresh.Hint=Refresh
+frmChangeMACAddress.actChangeMACAddress.Caption=Change MACµØÖ·
+frmChangeMACAddress.actChangeMACAddress.Hint=Change MACµØÖ·
+frmChangeMACAddress.actResetMACAddress.Caption=Reset MACµØÖ·
+frmChangeMACAddress.actResetMACAddress.Hint=Reset MACµØÖ·
+frmChangeMACAddress.actRestartConnection.Caption=Restart connection
+frmChangeMACAddress.actRestartConnection.Hint=Restart connection
+frmChangeMACAddress.actCopy.Caption=Copy
+frmChangeMACAddress.actLookupMacAddress.Caption=Lookup MACµØÖ·
+frmChangeMACAddress.actLookupMacAddress.Hint=Lookup MACµØÖ·
+
+DlgWindows7Info.Caption=Warning!
+DlgWindows7Info.Label1.Caption=See more information >>
+DlgWindows7Info.Label2.Caption=Under Windows 7 or later, the possible range of spoofed addresses for wireless adapters that can be set is limited. 
+DlgWindows7Info.OKBtn.Caption=Continue
+DlgWindows7Info.CancelBtn.Caption=Cancel
+DlgWindows7Info.cbDontShowWindows7Info.Caption=Don't show this message again
+
+DlgWindows7CorrectMAC.Caption=Warning!
+DlgWindows7CorrectMAC.Label2.Caption=For wireless adapter under Windows 7 or later, the possible values for the second nibble are limited to 2, 6, A and E.
+DlgWindows7CorrectMAC.Label1.Caption=See more information >>
+DlgWindows7CorrectMAC.OKBtn.Caption=OK
+DlgWindows7CorrectMAC.CancelBtn.Caption=Cancel
+DlgWindows7CorrectMAC.cbDontShow.Caption=Don't show this message again
+DlgWindows7CorrectMAC.GroupBox1.Caption=Choose the corrected MACµØÖ·
+DlgWindows7CorrectMAC.Label4.Caption=No thanks, set this MACµØÖ·
+
+DlgLookupMACAddress.Caption=MACµØÖ· Manufacturer Lookup
+DlgLookupMACAddress.Label1.Caption=MACµØÖ·
+DlgLookupMACAddress.Label2.Caption=Manufacturer
+DlgLookupMACAddress.OKBtn.Caption=Close
+DlgLookupMACAddress.Lookup.Caption=Lookup
+
+
+sError=Error!
+sDontShowAgain=Don't show this message again
+SCannotOpenClipboard = Cannot open clipboard
+sDemoSecond=You will be able to continue in %d seconds
+sHaveEvaluate=You have %d days for evaluation.
+
+
+AdapterTypes0=Other
+AdapterTypes1=Ethernet
+AdapterTypes2=Tokenring
+AdapterTypes3=FDDI
+AdapterTypes4=PPP
+AdapterTypes5=Loopback
+AdapterTypes6=SLIP
+
+AdapterTypesHint0=Other
+AdapterTypesHint1=Ethernet
+AdapterTypesHint2=Tokenring
+AdapterTypesHint3=FDDI
+AdapterTypesHint4=PPP
+AdapterTypesHint5=Loopback
+AdapterTypesHint6=SLIP
+
+
+mediatypes0=None
+mediatypes1=Direct
+mediatypes2=ISDN
+mediatypes3=LAN
+mediatypes4=Dial-up
+mediatypes5=Tunnel
+mediatypes6=PPPOE
+mediatypes7=Bridge
+mediatypes8=Shared access host LAN
+mediatypes9=Shared access host RAS
+
+MediaTypesHint0=No media is present.
+MediaTypesHint1=Direct serial connection through a serial port.
+MediaTypesHint2=Connection is through an integrated services digital network (ISDN) line.
+MediaTypesHint3=Connection is to a local area network (LAN).
+MediaTypesHint4=Dial-up connection over a conventional phone line.
+MediaTypesHint5=Virtual private network (VPN) connection.
+MediaTypesHint6=Point-to-Point protocol (PPP) over Ethernet.
+MediaTypesHint7=Bridged connection.
+MediaTypesHint8=Shared connection to a LAN.
+MediaTypesHint9=Shared connection to a remote or wide area network (WAN).
+
+
+connectionstatus0=Disconnected
+connectionstatus1=Connecting
+connectionstatus2=Connected
+connectionstatus3=Disconnecting
+connectionstatus4=Hardware not present
+connectionstatus5=Hardware disabled
+connectionstatus6=Hardware malfunction
+connectionstatus7=Media disconnected
+connectionstatus8=Authenticating
+connectionstatus9=Authentication succeeded
+connectionstatus10=Authentication failed
+connectionstatus11=Invalid address
+connectionstatus12=Credentials required
+
+ConnectionStatusHint0=The connection is disconnected.
+ConnectionStatusHint1=The connection is in the process of connecting.
+ConnectionStatusHint2=The connection is in a connected state.
+ConnectionStatusHint3=The connection is in the process of disconnecting.
+ConnectionStatusHint4=The hardware for the connection, for example network interface card (NIC), is not present.
+ConnectionStatusHint5=The hardware for the connection is present, but is not enabled.
+ConnectionStatusHint6=A malfunction has occurred in the hardware for the connection.
+ConnectionStatusHint7=The media, for example the network cable, is disconnected.
+ConnectionStatusHint8=The connection is waiting for authentication to occur.
+ConnectionStatusHint9=Authentication has succeeded on this connection.
+ConnectionStatusHint10=Authentication has failed on this connection.
+ConnectionStatusHint11=The address is invalid.
+ConnectionStatusHint12=Security credentials are required.
+
+
+SInfoYes=yes
+SInfoNo=no
+
+sConnectionStatusDisconnecting=Disconnecting...
+sConnectionStatusDisconnected=Disconnected
+sConnectionStatusConnecting=Connecting...
+sConnectionStatusConnected=Connected
+
+sAboutVersion=Version %d.%d.%d (Build %d) %s
+sfilehelp=help.htm
+
+sResetMACWarning=ÄãÕæµÄÏë reset MAC µØÖ·Âð?
+sRestartConnectionMACWarning=ËùÓÐÁ¬½«±»¹Ø±Õ. ÄãÏë¼ÌÐøÂð?
+sResetMACAddress=Reset MACµØÖ·
+sRestartConnection=Restart Connection
+sUnknownManufacturer=UNKNOWN MANUFACTURER
+sMACAddressInvalid=MACµØÖ· '%s' is invalid
